@@ -7,7 +7,7 @@
 ### 1.强制缓存的两种
 
 - http1.0 expires 属性
-- http2.0 cache-control : max-age = 5
+- http1.1 cache-control : max-age = 5
 
 ### 2.协商缓存 --- 前提 cache-control = no-cache
 
