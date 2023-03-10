@@ -1,0 +1,20 @@
+{
+  "name": "http",
+  "version": "1.0.0",
+  "description": "#### 介绍 对http缓存的学习",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/xierge/http-cache.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "etag": "^1.8.1"
+  }
+}
